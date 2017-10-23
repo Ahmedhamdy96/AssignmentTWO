@@ -1,0 +1,6 @@
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment two\value of a certain bit\value of a certain bit\bin\Debug\value of a certain bit.exe.config
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment two\value of a certain bit\value of a certain bit\obj\Debug\value of a certain bit.csprojResolveAssemblyReference.cache
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment two\value of a certain bit\value of a certain bit\bin\Debug\value of a certain bit.exe
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment two\value of a certain bit\value of a certain bit\bin\Debug\value of a certain bit.pdb
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment two\value of a certain bit\value of a certain bit\obj\Debug\value of a certain bit.exe
+E:\AHMED HAMDY\تانيه حاسبات\Programming\Assignment two\value of a certain bit\value of a certain bit\obj\Debug\value of a certain bit.pdb
